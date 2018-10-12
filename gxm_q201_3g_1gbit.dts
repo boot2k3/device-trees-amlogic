@@ -12,7 +12,6 @@
 		GPIOZ4_pin-gpios = <&gpio GPIOZ_4 0>;
 		GPIOZ5_pin-gpios = <&gpio GPIOZ_5 0>;
 		mc_val = <0x1621>;
-		cali_val = <0x20000>;
 		internal_phy=<0>;
 	};
 };
